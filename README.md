@@ -1,4 +1,4 @@
-#Booking-React
+# Booking-React
 
 Its a sample Room Booking system. It allows employees to see which rooms are available with their date and time and to book them as and when they want.
 
