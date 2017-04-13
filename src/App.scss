@@ -1,0 +1,14 @@
+$base-color : #9ABD36;
+$room-color : #F0E68C;
+$nav-color: #009547;
+
+body {
+	background-color: lighten($base-color, 20%);
+ }
+
+
+//--app--
+.room-group {
+    margin-top: 5px;
+}
+

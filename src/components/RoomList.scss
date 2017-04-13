@@ -1,0 +1,36 @@
+@import 'color';
+
+
+
+.mainlist {
+    margin: 0px; 
+   // height: 100%;
+}
+
+ul {
+    list-style-type: none;
+    // margin-top:100px;
+    padding: 0;
+    //width: 20%;
+    //position: fixed;
+    height: 100%;
+    overflow: auto;
+    background-color: #dff0d8;
+}
+
+li a {
+    display: block;
+    color: #000;
+    font-size: 25px;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+ul li:hover {
+    background: $room-color;
+}
+
+
+li a:hover:not(.active) {
+    color: white;
+}

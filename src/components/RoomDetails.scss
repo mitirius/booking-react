@@ -1,0 +1,36 @@
+@import 'color';
+
+
+
+@media (max-width: 767px) {
+    .img-responsive{
+        max-width: 10%;
+    }
+}
+
+.btn {
+	font-size: 20px;
+	width: 30%;
+    float: right;
+}
+
+// .imgparent {
+//     display: block;
+
+//     //position: relative;
+//     background-size: cover;
+//     //max-height: 400px;
+//     //max-width: 1000px;
+// 	border : 1px solid #000;
+   
+// }
+
+.info {
+    margin-left: 50px;
+}
+
+.text {
+	padding: 60px;
+    font-size: 20px;
+}
+

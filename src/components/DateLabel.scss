@@ -1,0 +1,36 @@
+@import 'color';
+
+
+
+
+.date {
+	font-size : 30px;
+	text-align: center;
+	color: #fff;
+  }
+
+h1 {
+    margin-top: 10px;
+}
+
+.navbar-header {
+    margin-left : 50px;
+    height: 35px;
+}
+
+.checkbox {
+    margin-left: 20px;
+    color: $room-color;
+}
+
+.glyphicon {
+    color: $room-color;
+    font-size: 20px;
+}
+
+
+.navbar-default {
+    background: darken($nav-color, 10%);
+    border: none;
+    height: 100px;
+}
